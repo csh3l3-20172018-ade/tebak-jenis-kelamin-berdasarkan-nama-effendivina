@@ -1,3 +1,4 @@
+
 Tugas Tebak Jenis Kelamin Berdasarkan Nama
 
 oleh 
@@ -13,5 +14,7 @@ Asumsi:
   - Huruf A, I, U, E, L, T memiliki frekuensi lebih sering di nama perempuan
   - Huruf B, D, O memiliki frekuensi lebih sering di nama laki-laki
   - Untuk menghitung kemungkinan saya menggunakan perhitungan kemungkinan dengan menghitung jumlah huruf-huruf berfrekuensi tinggi di salah satu gender dan dibagi oleh jumlah semua huruf yang ada di kedua gender
+  - Inputan nama dengan nama depan Muhammad akan otomatis terklasifikasi sebagai nama laki-laki
+  - Inputan user haruslah tanpa simbol tetapi bisa uppercase
 
 "# tebak-jenis-kelamin-berdasarkan-nama-effendivina" 
